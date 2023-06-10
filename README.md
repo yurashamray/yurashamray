@@ -6,7 +6,8 @@
 
 - Желаю Вам отличного настроения! Добро пожаловать!👍
 
-[![ПРАКТИКУМ](https://img.shields.io/badge/MYDEV-blue?style=for-the-badge)](https://github.com/yurashamray/mydev "Перейти в ПРАКТИКУМ")
+[![mydev](https://img.shields.io/badge/mydev-практикум-blue?logo=github&logoColor=white)](https://www.linux.org/ "Перейти в ПРАКТИКУМ")
+
 <!--
 **yurashamray/yurashamray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
