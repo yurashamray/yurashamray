@@ -8,7 +8,7 @@
 
 - Добро пожаловать!🤝
 
-
+[![ПРАКТИКУМ](https://img.shields.io/badge/ПРАКТИКУМ-blue?style=for-the-badge)](/mydev/ "Go to project documentation")
 <!--
 **yurashamray/yurashamray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
