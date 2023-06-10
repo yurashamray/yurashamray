@@ -9,7 +9,7 @@
 [![mydev](https://img.shields.io/badge/MYDEV-ПРАКТИКУМ-blue?logo=github&logoColor=white)](https://github.com/yurashamray/mydev "Перейти в ПРАКТИКУМ")
 [![skillfactory](https://img.shields.io/badge/MIFI-SKILLFACTORY-green?logo=neutralinojs&logoColor=white)](https://skillfactory.ru "skillfactory.ru")
 
-[![PROSPERO's github stats](https://github-readme-stats.vercel.app/api?username=yurashamray&theme=blue-green)](https://github.com/yurashamray/github-readme-stats) [![PROSPERO's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yurashamray&theme=blue-green)](https://github.com/yurashamray/github-readme-streak-stats)
+[![PROSPERO's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yurashamray&theme=blue-green)](https://github.com/yurashamray/github-readme-streak-stats)
 <!--
 **yurashamray/yurashamray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
