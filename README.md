@@ -4,7 +4,7 @@
 
 - Здесь я буду делиться своими выполнеными практическими заданиями из курса.📚
 
-- Желаю Вам отличного настроения! Добро пожаловать!👍
+- Желаю Вам отличного настроения и добро пожаловать!👍
 
 [![mydev](https://img.shields.io/badge/MYDEV-ПРАКТИКУМ-blue?logo=github&logoColor=white)](https://github.com/yurashamray/mydev "Перейти в ПРАКТИКУМ")
 [![skillfactory](https://img.shields.io/badge/MIFI-SKILLFACTORY-green?logo=neutralinojs&logoColor=white)](https://skillfactory.ru "skillfactory.ru")
