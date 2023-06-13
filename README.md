@@ -7,7 +7,7 @@
 - Желаю Вам отличного настроения и добро пожаловать!👍
 
 [![mydev](https://img.shields.io/badge/MYDEV-ПРАКТИКУМ-blue?logo=github&logoColor=white)](https://github.com/yurashamray/mydev "Перейти в ПРАКТИКУМ")
-[![skillfactory](https://new.skillfactory.ru/informacionnaya-bezopasnost-mephi?_ga=2.18257209.1638735037.1686642549-615199569.1684159368#popupopen)](https://skillfactory.ru "skillfactory.ru")
+[![skillfactory](https://img.shields.io/badge/MIFI-SKILLFACTORY-green?logo=github&logoColor=white)](https://new.skillfactory.ru/informacionnaya-bezopasnost-mephi?_ga=2.18257209.1638735037.1686642549-615199569.1684159368#popupopen "skillfactory.ru")
 
 [![PROSPERO's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yurashamray&theme=blue-green)](https://github.com/yurashamray/github-readme-streak-stats)
 
