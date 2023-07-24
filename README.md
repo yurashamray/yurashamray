@@ -6,6 +6,8 @@
 
 - Желаю Вам отличного настроения и добро пожаловать!👍
 
+![Практикум](https://skillicons.dev/icons?i=docker,kubernetes,powershell,py,vscode,bash,mysql,php,flask,linux,ansible)
+
 [![mydev](https://img.shields.io/badge/MYDEV-ПРАКТИКУМ-blue?logo=github&logoColor=white)](https://github.com/yurashamray/mydev "Перейти в ПРАКТИКУМ")
 [![skillfactory](https://img.shields.io/badge/MIFIIB-SKILLFACTORY-green?logo=react&logoColor=white)](https://new.skillfactory.ru/informacionnaya-bezopasnost-mephi?_ga=2.18257209.1638735037.1686642549-615199569.1684159368#popupopen "skillfactory.ru")
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yurashamray)
