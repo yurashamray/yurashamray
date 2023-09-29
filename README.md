@@ -1,11 +1,8 @@
 ### Приветствую!👋
 - Прохожу онлайн-курс в школе [Skillfactory](https://skillfactory.ru) и погружаюсь в увлекательный мир Информационной Безопасности.🔒
-- Обретаю знания и умения, которые помогут мне стать специалистом в этой области.💪
 
-[![VM - Virtualbox](https://img.shields.io/badge/VirtualBox-gray?style=flat&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/ "Go to VirtualBox homepage")
-[![VM - VMware](https://img.shields.io/badge/VMware-gray?style=flat&logo=pkgsrc&logoColor=white)](https://www.vmware.com/products/workstation-pro.html "Go to VMware Workstation homepage")
-![GitHub repo size](https://img.shields.io/github/repo-size/yurashamray/mydev)
-![GitHub last commit](https://img.shields.io/github/last-commit/yurashamray/mydev)
+- Обретаю знания и умения, которые помогут мне стать специалистом в этой области.💪
+##
 
 ![Практикум](https://skillicons.dev/icons?i=docker,kubernetes,powershell,py,vscode,bash,mysql,php,flask,linux,ansible)
 
