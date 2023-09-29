@@ -11,8 +11,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yurashamray)
 ![GitHub followers](https://img.shields.io/github/followers/yurashamray)
 
-[![Prospero GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yurashamray&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ## Детализированные оценки
 |Вводный курс                                                                                      | Оценка |
 |:---                                                                                              |  :---: |
