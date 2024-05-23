@@ -14,7 +14,7 @@
 [![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=flat&logo=zorin&logoColor=white)](https://zorin.com/os/ "Go to Zorin OS homepage")
 [![Kali-Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org/ "Go to Kali-Linux homepage")
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
-## Детализированные оценки - Информационная Безопасность
+<!-- ## Детализированные оценки - Информационная Безопасность
 |Вводный курс                                                                                      | Оценка |
 |:---                                                                                              |  :---: |
 |Модуль 1. Архитектура ОС Linux                                                                    |  51/51 |
