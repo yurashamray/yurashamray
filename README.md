@@ -14,6 +14,8 @@
 [![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=flat&logo=zorin&logoColor=white)](https://zorin.com/os/ "Go to Zorin OS homepage")
 [![Kali-Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org/ "Go to Kali-Linux homepage")
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
+
+![Image](https://github.com/user-attachments/assets/64ab5b26-707f-42f8-acc7-48945273d5f2)
 <!-- ## Детализированные оценки - Информационная Безопасность
 |Вводный курс                                                                                      | Оценка |
 |:---                                                                                              |  :---: |
